@@ -19,7 +19,7 @@ We are a licensed and insured moving company focused on efficiency, protection o
 - [Lakewood, CO](lakewood-moving-company.md)
 - [Englewood, CO](englewood-moving-company.md)
 - [Golden, CO](golden-moving-company.md)
-- Superior, CO
+- [Superior, CO](superior-moving-company.md)
 - [Arvada, CO](arvada-moving-company.md)
 
 📞 720.755.0999  
