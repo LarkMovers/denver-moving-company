@@ -17,7 +17,7 @@ We are a licensed and insured moving company focused on efficiency, protection o
 
 - [Denver, CO](README.md)
 - [Lakewood, CO](lakewood-moving-company.md)
-- Englewood, CO
+- [Englewood, CO](englewood-moving-company.md)
 - Golden, CO
 - Superior, CO
 - [Arvada, CO](arvada-moving-company.md)
