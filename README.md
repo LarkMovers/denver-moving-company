@@ -12,7 +12,7 @@ We are a licensed and insured moving company focused on efficiency, protection o
 - [Commercial & Office Relocation](commercial-moving-company-denver.md)
 - Packing & Unpacking
 - Local Moving
-- Long Distance Moving
+- [Long Distance Moving](long-distance-moving-company-denver.md)
 
 For businesses planning an office or facility relocation, visit our dedicated Commercial Moving page for detailed information about our structured planning process, building coordination, and operational transition services.
 
