@@ -19,7 +19,8 @@ For businesses planning an office or facility relocation, visit our dedicated Co
 ## Primary Service Areas
 
 - [Denver, CO](README.md)
-- [Aurora, CO](aurora-moving-company.md) 
+- [Aurora, CO](aurora-moving-company.md)
+- [Parker, CO](parker-moving-company.md) 
 - [Lakewood, CO](lakewood-moving-company.md)
 - [Englewood, CO](englewood-moving-company.md)
 - [Golden, CO](golden-moving-company.md)
