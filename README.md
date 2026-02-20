@@ -21,6 +21,7 @@ For businesses planning an office or facility relocation, visit our dedicated Co
 - [Denver, CO](README.md)
 - [Aurora, CO](aurora-moving-company.md)
 - [Lakewood, CO](lakewood-moving-company.md)
+- [Castle Rock, CO](castle-rock-moving-company.md)
 - [Arvada, CO](arvada-moving-company.md)
 - [Englewood, CO](englewood-moving-company.md)
 - [Golden, CO](golden-moving-company.md)
@@ -28,14 +29,6 @@ For businesses planning an office or facility relocation, visit our dedicated Co
 - [Superior, CO](superior-moving-company.md)
 - [Elizabeth, CO](elizabeth-moving-company.md)
 - [Bennett, CO](bennett-moving-company.md)
-- [Aurora, CO](aurora-moving-company.md)
-- [Parker, CO](parker-moving-company.md)
-- [Elizabeth, CO](elizabeth-moving-company.md)
-- [Lakewood, CO](lakewood-moving-company.md)
-- [Englewood, CO](englewood-moving-company.md)
-- [Golden, CO](golden-moving-company.md)
-- [Superior, CO](superior-moving-company.md)
-- [Arvada, CO](arvada-moving-company.md)
 
 📞 720.755.0999  
 🌐 https://denverdoortodoormovers.com
