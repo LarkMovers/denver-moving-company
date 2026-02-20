@@ -16,11 +16,11 @@ We are a licensed and insured moving company focused on efficiency, protection o
 ## Primary Service Areas
 
 - Denver, CO
-- Aurora, CO
 - Lakewood, CO
 - Englewood, CO
 - Golden, CO
 - Superior, CO
+- [Arvada, CO](arvada-moving-company.md)
 
 📞 720.755.0999  
 🌐 https://denverdoortodoormovers.com
