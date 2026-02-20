@@ -15,7 +15,7 @@ We are a licensed and insured moving company focused on efficiency, protection o
 
 ## Primary Service Areas
 
-- Denver, CO
+- [Denver, CO](README.md)
 - [Lakewood, CO](lakewood-moving-company.md)
 - Englewood, CO
 - Golden, CO
