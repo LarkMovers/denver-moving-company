@@ -2,7 +2,7 @@
 
 Lark Movers provides professional residential and commercial moving services in Arvada, Colorado.
 
-Our experienced moving team handles apartment moves, home relocations, office moves, and packing services throughout Arvada and the surrounding [Denver, CO](README.md) metro area.
+Our experienced moving team handles apartment moves, home relocations, office moves, and packing services throughout Arvada and the surrounding [Denver, CO](README.md) metro area, including nearby communities like Lakewood and Golden.
 
 ## Moving Services in Arvada, CO
 
