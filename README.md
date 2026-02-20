@@ -8,7 +8,7 @@ We are a licensed and insured moving company focused on efficiency, protection o
 
 - Residential Moving
 - Apartment & Condo Moving
-- Senior & Assisted Living Moves
+- [Senior & Assisted Living Moves](senior-moving-company-denver.md)
 - [Commercial & Office Relocation](commercial-moving-company-denver.md)
 - Packing & Unpacking
 - Local Moving
