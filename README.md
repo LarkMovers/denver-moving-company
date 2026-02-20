@@ -9,14 +9,12 @@ We are a licensed and insured moving company focused on efficiency, protection o
 - Residential Moving
 - Apartment & Condo Moving
 - Senior & Assisted Living Moves
-- Commercial & Office Relocation
+- [Commercial & Office Relocation](commercial-moving-company-denver.md)
 - Packing & Unpacking
 - Local Moving
 - Long Distance Moving
 
-We proudly serve homeowners, renters, businesses, and seniors throughout the greater Denver metro area. Our team provides respectful and well-organized moving services for retirement communities, downsizing households, and assisted living transitions.
-
-In addition to Denver, our team regularly completes residential, commercial, and senior moving services in nearby communities including Aurora, Lakewood, Englewood, Golden, Superior, and Arvada. Whether you are relocating within your neighborhood, transitioning to assisted living, or moving across the metro area, our experienced team delivers reliable, efficient, and carefully managed moving services tailored to your specific property type and access requirements.
+For businesses planning an office or facility relocation, visit our dedicated Commercial Moving page for detailed information about our structured planning process, building coordination, and operational transition services.
 
 ## Primary Service Areas
 
