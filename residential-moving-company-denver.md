@@ -41,17 +41,17 @@ Every item is handled with attention to detail, from furniture and appliances to
 
 We provide residential moving services throughout:
 
-- Denver
-- Aurora
-- Lakewood
-- Castle Rock
-- Arvada
-- Englewood
-- Golden
-- Parker
-- Superior
-- Elizabeth
-- Bennett
+- [Denver, CO](README.md)
+- [Aurora, CO](aurora-moving-company.md)
+- [Lakewood, CO](lakewood-moving-company.md)
+- [Castle Rock, CO](castle-rock-moving-company.md)
+- [Arvada, CO](arvada-moving-company.md)
+- [Englewood, CO](englewood-moving-company.md)
+- [Golden, CO](golden-moving-company.md)
+- [Parker, CO](parker-moving-company.md)
+- [Superior, CO](superior-moving-company.md)
+- [Elizabeth, CO](elizabeth-moving-company.md)
+- [Bennett, CO](bennett-moving-company.md)
 
 As a licensed and insured moving company, we maintain high standards of professionalism, reliability, and communication on every residential relocation project.
 
