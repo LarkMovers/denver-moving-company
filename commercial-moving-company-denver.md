@@ -40,5 +40,7 @@ If your company is expanding to another state, explore our [Long Distance Moving
 We also provide professional [Packing & Unpacking](packing-and-unpacking-services-denver.md) for structured office transitions.  
 For mixed-use properties or live/work spaces, see our [Residential Moving](residential-moving-company-denver.md) services.
 
+For a commercial moving estimate in Denver, CO contact our team directly to discuss scheduling, property access, and service availability.
+
 720.755.0999  
-https://denverdoor2doormovers.com
+https://denverdoor2doormovers.comm
