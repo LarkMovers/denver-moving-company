@@ -6,13 +6,14 @@ We are a licensed and insured moving company focused on efficiency, protection o
 
 ## Our Services
 
+## Our Services
+
 - [Residential Moving](residential-moving-company-denver.md)
-- Apartment & Condo Moving
-- [Senior & Assisted Living Moves](senior-moving-company-denver.md)
-- [Commercial & Office Relocation](commercial-moving-company-denver.md)
-- Packing & Unpacking
-- Local Moving
+- [Local Moving](local-moving-company-denver.md)
 - [Long Distance Moving](long-distance-moving-company-denver.md)
+- [Commercial & Office Relocation](commercial-moving-company-denver.md)
+- [Senior & Assisted Living Moves](senior-moving-company-denver.md)
+- [Packing & Unpacking](packing-and-unpacking-services-denver.md)
 
 For businesses planning an office or facility relocation, visit our dedicated Commercial Moving page for detailed information about our structured planning process, building coordination, and operational transition services.
 
